@@ -1,5 +1,5 @@
 # lunar-lander
-My attempt to adapt Q-Learning to train rocket landing using OpenAI Gym as the environment.
+My attempt to use Q-Learning to train rocket landing using OpenAI Gym as the environment.
 
 Visual example from OpenAI:
 
